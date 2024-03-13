@@ -1,0 +1,13 @@
+{
+  "subtitle": "Services",
+  "title": "Providing Exceptional Ceramic Solutions",
+  "description": "Offering a diverse range of high-quality sanitary ware products tailored to modern needs.",
+  "button1": {
+    "label": "More about us",
+    "link": "/about"
+  },
+  "button2": {
+    "label": "View portfolio",
+    "link": "/portfolio"
+  }
+}

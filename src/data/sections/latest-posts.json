@@ -1,0 +1,10 @@
+{
+  "subtitle": "Blogs",
+  "title": "Explore Our Insightful Blog",
+  "description": "Stay Updated with Industry TrendsCrafting Excellence: Expert Advice for Your Ceramic Projects",
+  "button": {
+    "label": "View all",
+    "link": "/blog"
+  },
+  "numOfItems": 3
+}

@@ -1,0 +1,75 @@
+{
+  "bg_image": "img/hero/1.jpg",
+  "subtitle": "",
+  "title": {
+    "before": "",
+    "accent": "Special Quality",
+    "after": "for Special People"
+  },
+  "description": "Best Ceramic Sanitary Ware - Elevate Your Home with <br />Unmatched Quality and Style",
+  "image": "img/hero/2.jpg",
+  "partners": [
+    {
+      "image": "img/partners/1.svg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/partners/2.svg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/partners/3.svg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/partners/4.svg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/partners/5.svg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/partners/6.svg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/partners/7.svg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/partners/8.svg",
+      "link": "#.",
+      "alt": "logo"
+    }
+  ],
+  "HeroSlideImages": [
+    {
+      "image": "img/homeslide/1.jpg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/homeslide/2.jpg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/homeslide/3.jpg",
+      "link": "#.",
+      "alt": "logo"
+    },
+    {
+      "image": "img/homeslide/4.jpg",
+      "link": "#.",
+      "alt": "logo"
+    }
+  ]
+}

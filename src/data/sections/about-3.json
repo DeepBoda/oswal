@@ -1,0 +1,35 @@
+{
+  "subtitle": "About us",
+  "title": "Premium Sanitaryware Supplier",
+  "description": "Oswal: Gujarat's Leading Ceramics Innovator. Specializing in top-tier construction ceramics, we prioritize quality, innovation, and customer satisfaction. ISO 9001:2000 certified, we excel in advanced manufacturing, design, and technology to lead the industry.",
+  "button": {
+    "label": "Read more",
+    "link": "/about-2"
+  },
+  "gallery": [
+    {
+      "url": "img/Oswal/One Piece/Dolphin.png",
+      "width": "1000",
+      "height": "1500",
+      "alt": "img"
+    },
+    {
+      "url": "img/Oswal/Table Top/oval.png",
+      "width": "1920",
+      "height": "1280",
+      "alt": "img"
+    },
+    {
+      "url": "img/Oswal/Urinal/baby urinal.png",
+      "width": "1000",
+      "height": "1500",
+      "alt": "img"
+    },
+    {
+      "url": "img/Oswal/Wall Hung/Cocealed E.W.C. S Trap.png",
+      "width": "1920",
+      "height": "1440",
+      "alt": "img"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "subtitle": "Reviews",
+  "title": "What our clients says",
+  "button": {
+    "label": "View all",
+    "link": "#."
+  },
+  "items": [
+    {
+      "name": "Dhanbad",
+      "image": "img/team/1.png",
+      "role": "Dealer",
+      "text": "Impeccable quality! Purchasing sanitary ware products from Oswal Sanitary Ware has been a game-changer for our projects. The durability and finesse of their products speak volumes."
+    },
+    {
+      "name": "Ranchi",
+      "image": "img/team/2.png",
+      "role": "Dealer",
+      "text": "Simply the best! Every product from Oswal Sanitaryware reflects excellence. From design to functionality, Oswal sanitary ware stands out in terms of both aesthetics and performance"
+    },
+    {
+      "name": "West Bangal",
+      "image": "img/team/3.png",
+      "role": "Dealer",
+      "text": "Value for money! Buying sanitary ware from Oswal factory has been a wise investment. The products are not only competitively priced but also surpass expectations in terms of quality."
+    },
+    {
+      "name": "Middle East",
+      "image": "img/team/4.png",
+      "role": "Dealer",
+      "text": "Total satisfaction! Our experience with Oswal factory's sanitary ware has been exceptional. The range of products offered, coupled with their durability, has made them our preferred choice"
+    }
+  ]
+}

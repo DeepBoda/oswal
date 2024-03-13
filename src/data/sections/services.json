@@ -1,0 +1,33 @@
+{
+  "bg_image": "img/content/3.jpg",
+  "items": [
+    {
+      "num": "01",
+      "title": "Water Saving",
+      "icon": "img/icons/1.svg",
+      "text": "Our WCs have a special bowl structure & are specifically designed to flush with both lower and typical water volumes.",
+      "link": "/"
+    },
+    {
+      "num": "02",
+      "title": "Space Saving",
+      "icon": "img/icons/2.svg",
+      "text": "A Wall-hung WC takes up less from than a convential WC, and the consoled installation offers flexibility in confined spaces.",
+      "link": "/"
+    },
+    {
+      "num": "03",
+      "title": "Washbasin Forms",
+      "icon": "img/icons/3.svg",
+      "text": "Washbasins can be used with a pedestal as well as being wall - hung.",
+      "link": "/"
+    },
+    {
+      "num": "04",
+      "title": "Rim Less Technology",
+      "icon": "img/icons/4.svg",
+      "text": "Offering effortless cleaning and innovative, hygiene design.",
+      "link": "/"
+    }
+  ]
+}
